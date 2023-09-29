@@ -1,0 +1,10 @@
+C:\Users\marti\OneDrive\Escritorio\Programas\Area de un triangulo (C sharp) Form\Area de un triangulo (C sharp) Form\bin\Debug\Area de un triangulo (C sharp) Form.exe.config
+C:\Users\marti\OneDrive\Escritorio\Programas\Area de un triangulo (C sharp) Form\Area de un triangulo (C sharp) Form\bin\Debug\Area de un triangulo (C sharp) Form.exe
+C:\Users\marti\OneDrive\Escritorio\Programas\Area de un triangulo (C sharp) Form\Area de un triangulo (C sharp) Form\bin\Debug\Area de un triangulo (C sharp) Form.pdb
+C:\Users\marti\OneDrive\Escritorio\Programas\Area de un triangulo (C sharp) Form\Area de un triangulo (C sharp) Form\obj\Debug\Area de un triangulo (C sharp) Form.csproj.AssemblyReference.cache
+C:\Users\marti\OneDrive\Escritorio\Programas\Area de un triangulo (C sharp) Form\Area de un triangulo (C sharp) Form\obj\Debug\Area_de_un_triangulo__C_sharp__Form.Form1.resources
+C:\Users\marti\OneDrive\Escritorio\Programas\Area de un triangulo (C sharp) Form\Area de un triangulo (C sharp) Form\obj\Debug\Area_de_un_triangulo__C_sharp__Form.Properties.Resources.resources
+C:\Users\marti\OneDrive\Escritorio\Programas\Area de un triangulo (C sharp) Form\Area de un triangulo (C sharp) Form\obj\Debug\Area de un triangulo (C sharp) Form.csproj.GenerateResource.cache
+C:\Users\marti\OneDrive\Escritorio\Programas\Area de un triangulo (C sharp) Form\Area de un triangulo (C sharp) Form\obj\Debug\Area de un triangulo (C sharp) Form.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Escritorio\Programas\Area de un triangulo (C sharp) Form\Area de un triangulo (C sharp) Form\obj\Debug\Area de un triangulo (C sharp) Form.exe
+C:\Users\marti\OneDrive\Escritorio\Programas\Area de un triangulo (C sharp) Form\Area de un triangulo (C sharp) Form\obj\Debug\Area de un triangulo (C sharp) Form.pdb
